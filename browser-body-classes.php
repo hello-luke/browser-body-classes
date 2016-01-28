@@ -6,7 +6,7 @@
  * Description:       Add unique classes to the body tag for easy styling based on user's device and browser
  * Version:           1.0.0
  * Author:            Łukasz Kowalski
- * Author URI:        http://heloluke.eu
+ * Author URI:        http://helloluke.eu
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  */
