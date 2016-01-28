@@ -1,0 +1,20 @@
+.bbc-options-wrap{
+	background: #fff;
+	padding: 20px 30px;
+}
+
+.bbc-options-wrap tr{
+	border-top: 1px solid #e6e6e6;
+}
+
+.bbc-options-wrap .form-table th{
+	width:300px;
+}
+
+.bbc-options-wrap span{
+	color:#727272;
+}
+
+.bbc-options-wrap td>input[type=checkbox] {
+	margin-top: -3px;
+}
