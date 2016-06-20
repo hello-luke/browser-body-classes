@@ -124,7 +124,7 @@ class Browser_Body_Classes_Admin{
 			array( $this, 'sanitize' ) // Sanitize
 		);
 
-		dd_settings_section(
+		add_settings_section(
 			'bbc_general_settings', // ID
 			'Enter your settings below:', // Title
 			array( $this, 'print_section_info' ), // Callback
